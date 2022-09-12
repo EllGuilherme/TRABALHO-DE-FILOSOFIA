@@ -1,0 +1,38 @@
+img{
+    border-radius: 5%;
+    border: 6px solid rgba(110, 41, 173, 0.349);
+    padding: 2px;
+    width: 350px;
+    height:200px;
+    
+}
+
+ body{
+    background-color: rgba(87, 30, 141, 0.689);
+
+ }
+
+ h1{
+   text-align: center;
+   font-family: arial;
+
+}
+
+ h4{
+   text-align:center;
+ }
+
+ h3{
+   font-size: 17px;
+   
+ }
+
+ h5{
+   text-align: left;
+ }
+
+ #david-hume, p1{
+   
+ }
+ 
+
