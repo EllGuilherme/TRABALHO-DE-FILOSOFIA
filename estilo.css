@@ -4,12 +4,18 @@ img{
     padding: 2px;
     width: 350px;
     height:200px;
+    text-align: center;
     
 }
 
  body{
     background-color: rgba(87, 30, 141, 0.689);
 
+ }
+
+ p{
+   font-size: 20px;
+   font-style:initialsx;
  }
 
  h1{
@@ -31,8 +37,7 @@ img{
    text-align: left;
  }
 
- #david-hume, p1{
-   
+ #nomedaescola{
+   text-align: end;
  }
  
-
