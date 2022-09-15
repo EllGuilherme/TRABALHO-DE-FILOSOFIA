@@ -1,6 +1,12 @@
-p{
-
+img{
+    padding: 2px;
+    width: 200px;
+    height:200px;
+    border-radius:10px;
+    border: 2px solid;
 }
+
+
 
     
     
