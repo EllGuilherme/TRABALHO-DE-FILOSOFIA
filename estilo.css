@@ -5,6 +5,7 @@ img{
     width: 350px;
     height:200px;
     text-align: center;
+    display: block;
     
 }
 
@@ -13,7 +14,7 @@ img{
 
  }
 
- p{
+ div{
    font-size: 20px;
    font-style:initialsx;
  }
@@ -40,5 +41,15 @@ img{
  #nomedaescola{
    text-align: end;
  }
+  
+p{
+  font-family: arial;
+  color: aqua;
+  display: block;
+}
+
+.ladinho{
+  display: flex;justify-self: space-between;
+}
 
 
