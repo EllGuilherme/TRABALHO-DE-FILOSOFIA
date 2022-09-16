@@ -4,4 +4,13 @@ img{
     height:200px;
     border-radius:10px;
     border: 2px solid;
+    display: block;
+}
+
+body{
+    background-color: navajowhite;
+}
+
+p{
+    font-family: Arial;
 }

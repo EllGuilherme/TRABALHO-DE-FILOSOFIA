@@ -4,6 +4,7 @@ img{
     height:200px;
     border-radius:10px;
     border: 2px solid;
+    display: block;
 }
 
 div{
@@ -16,6 +17,10 @@ div{
    overflow: auto;
 }
 
+.ladinho{
+    display: flex;justify-self: space-between;
+  }
+  
 
 
 

@@ -5,7 +5,7 @@ img{
     width: 350px;
     height:200px;
     text-align: center;
-    display: block;
+    display:inline;
     
 }
 
@@ -44,12 +44,8 @@ img{
   
 p{
   font-family: arial;
-  color: aqua;
   display: block;
 }
 
-.ladinho{
-  display: flex;justify-self: space-between;
-}
 
 
