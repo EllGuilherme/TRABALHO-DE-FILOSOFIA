@@ -54,6 +54,12 @@ p{
   color: rgb(176, 75, 75);
 }
 
+#link{
+  position: relative;
+  bottom: 40px;
+  font-size: 15px;
+}
+
 
 
 

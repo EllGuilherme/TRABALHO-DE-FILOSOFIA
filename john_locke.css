@@ -1,3 +1,32 @@
 h1{
     color: brown;
 }
+
+h2{
+    font-size: 14px;
+    font-family: arial;
+    color: aqua;
+}
+
+body{
+    background-color:rgb(247, 191, 134)
+
+}
+
+img{
+    padding: 0px;
+    width: 200px;
+    height:200px;
+    border-radius:10px;
+    border: 2px solid;
+    display: block;
+}
+
+div{
+    font-size: 20px;
+    font-family:;
+} 
+
+.frases{
+    color: rgb(176, 75, 75);
+}
