@@ -1,3 +1,8 @@
+body{
+    background-color:rgb(247, 191, 134)
+
+}
+
 img{
     padding: 2px;
     width: 200px;
@@ -8,14 +13,34 @@ img{
 }
 
 div{
-
-
-}
+    font-size: 20px;
+    font-family: arial;
+} 
 
 .conteudo{
     
    overflow: auto;
 }
+
+h1{
+    text-align: center;
+    font-family: arial;
+    color:brown
+}
+
+.fonte-da-obra{
+    font-family: arial;
+    font-size: 18px;
+}
+
+.frases{
+    color: rgb(176, 75, 75);
+}
+
+p{
+    display: block;
+}
+
 
 .ladinho{
     display: flex;justify-self: space-between;

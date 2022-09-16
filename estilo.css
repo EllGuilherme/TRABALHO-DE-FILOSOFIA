@@ -1,7 +1,7 @@
 img{
     border-radius: 5%;
-    border: 6px solid rgba(110, 41, 173, 0.349);
-    padding: 2px;
+    border: 6px solid rgb(4, 3, 3);
+    padding: 0px;
     width: 350px;
     height:200px;
     text-align: center;
@@ -10,18 +10,20 @@ img{
 }
 
  body{
-    background-color: rgba(87, 30, 141, 0.689);
+    background-color:rgb(247, 191, 134)
 
  }
 
  div{
-   font-size: 20px;
-   font-style:initialsx;
+   font-size: 22px;
+   font-family:arial;
+   
  }
 
  h1{
    text-align: center;
    font-family: arial;
+   color:brown
 
 }
 
@@ -30,7 +32,7 @@ img{
  }
 
  h3{
-   font-size: 17px;
+   font-size: 20px;
    
  }
 
@@ -45,7 +47,13 @@ img{
 p{
   font-family: arial;
   display: block;
+  color: brown;
 }
+
+.frases{
+  color: rgb(176, 75, 75);
+}
+
 
 
 
